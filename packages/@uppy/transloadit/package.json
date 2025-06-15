@@ -28,9 +28,9 @@
   },
   "dependencies": {
     "@uppy/companion-client": "workspace:^",
-    "@uppy/provider-views": "workspace:^",
-    "@uppy/tus": "workspace:^",
-    "@uppy/utils": "workspace:^",
+    "@uppy/provider-views": "0.26.0",
+    "@uppy/tus": "0.26.0",
+    "@uppy/utils": "0.26.0",
     "component-emitter": "^2.0.0"
   },
   "peerDependencies": {
