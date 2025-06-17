@@ -19,7 +19,7 @@
     "url": "git+https://github.com/transloadit/uppy.git"
   },
   "dependencies": {
-    "@uppy/utils": "workspace:^",
+    "@uppy/utils": "0.26.0",
     "classnames": "^2.2.6",
     "nanoid": "^5.0.9",
     "p-queue": "^8.0.0",
