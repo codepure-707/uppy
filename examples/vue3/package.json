@@ -9,9 +9,9 @@
   },
   "dependencies": {
     "@uppy/core": "workspace:*",
-    "@uppy/dashboard": "workspace:*",
+    "@uppy/dashboard": "0.26.0",
     "@uppy/drag-drop": "workspace:*",
-    "@uppy/progress-bar": "workspace:*",
+    "@uppy/progress-bar": "0.26.0",
     "@uppy/tus": "workspace:*",
     "@uppy/vue": "workspace:*",
     "@uppy/webcam": "workspace:*",
