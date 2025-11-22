@@ -5,9 +5,9 @@
   "dependencies": {
     "@uppy/core": "workspace:*",
     "@uppy/dashboard": "workspace:*",
-    "@uppy/react": "workspace:*",
-    "@uppy/remote-sources": "workspace:*",
-    "@uppy/tus": "workspace:*",
+    "@uppy/react": "0.26.0",
+    "@uppy/remote-sources": "0.1.0",
+    "@uppy/tus": "0.26.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
