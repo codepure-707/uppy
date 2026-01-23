@@ -24,10 +24,10 @@
   },
   "dependencies": {
     "@uppy/core": "workspace:*",
-    "@uppy/dashboard": "workspace:*",
+    "@uppy/dashboard": "0.26.0",
     "@uppy/drag-drop": "workspace:*",
-    "@uppy/progress-bar": "workspace:*",
-    "@uppy/svelte": "workspace:*",
+    "@uppy/progress-bar": "0.26.0",
+    "@uppy/svelte": "0.1.1",
     "@uppy/webcam": "workspace:*",
     "@uppy/xhr-upload": "workspace:*",
     "formidable": "^3.5.1"
