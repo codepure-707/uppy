@@ -65,7 +65,7 @@
     "supports-color": "8.x",
     "tus-js-client": "^4.1.0",
     "validator": "^13.0.0",
-    "webdav": "5.7.1",
+    "webdav": "5.9.0",
     "ws": "8.17.1"
   },
   "devDependencies": {
