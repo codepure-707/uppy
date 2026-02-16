@@ -15,7 +15,7 @@
     "@uppy/dashboard": "workspace:*",
     "@uppy/instagram": "workspace:*",
     "@uppy/react": "workspace:*",
-    "@uppy/react-native": "workspace:*",
+    "@uppy/react-native": "0.0.1",
     "@uppy/tus": "workspace:*",
     "@uppy/url": "workspace:*",
     "@uppy/xhr-upload": "workspace:*",
